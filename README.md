@@ -2,13 +2,11 @@
 
 > *“We’re not breaking out of a prison — we’re breaking out of the system.”*
 
----
 
 ## 📖 **Overview**
 **Prison Break** is an American television series that first aired in **2005**, created by **Paul Scheuring**.  
 The show follows two brothers, **Michael Scofield** and **Lincoln Burrows**, who face impossible odds to escape from prison and uncover a government conspiracy.
 
----
 
 ## 👥 **Main Characters**
 1. **Michael Scofield** – A brilliant structural engineer who deliberately gets imprisoned to save his brother.  
@@ -17,7 +15,6 @@ The show follows two brothers, **Michael Scofield** and **Lincoln Burrows**, who
 4. **Fernando Sucre** – Michael’s loyal cellmate and best friend.  
 5. **T-Bag (Theodore Bagwell)** – A manipulative and dangerous inmate.  
 
----
 
 ## ⚙️ *Plot Summary*
 Michael Scofield purposely commits a crime to be incarcerated at **Fox River State Penitentiary**, where his brother **Lincoln** awaits execution.  
@@ -31,7 +28,6 @@ Each season brings new twists — from prison breaks to political conspiracies a
 - ❤️ **Brotherhood Theme** – The strong bond between Michael and Lincoln is inspiring.  
 - 💥 **Suspense and Thrill** – Keeps you on the edge of your seat.  
 
----
 
 ## 📺 **Seasons Overview**
 
@@ -43,18 +39,15 @@ Each season brings new twists — from prison breaks to political conspiracies a
 | 4 | 2008 | The Company | Conspiracy revealed |
 | 5 | 2017 | Yemen | Michael’s comeback |
 
----
 
 ## 🗣️ **Favorite Quote**
 > “I chose to do this because I’m tired of running. I’m tired of watching people I love die because of me.”  
 > — *Michael Scofield*
 
----
+**Fun Fact:** The series Prison Break was first released in 2005!
 
 ## 🔗 **Related Links**
 [Prison Break (IMDb)](https://www.imdb.com/title/tt0455275/)  
 [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
----
 
-### 🧩 **Example Code Block**
